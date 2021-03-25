@@ -7,8 +7,7 @@ about_first();
 about_second();
 team();
 info_section();
-
-//put comments
+//commint
 ?>
 
 
