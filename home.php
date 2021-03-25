@@ -7,6 +7,8 @@ about_first();
 about_second();
 team();
 info_section();
+
+
 ?>
 
 
