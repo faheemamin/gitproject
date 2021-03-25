@@ -3,7 +3,6 @@
 <?php include 'function.php';?>
 
 <?php
-//commit
 about_first(); 
 about_second();
 team();
