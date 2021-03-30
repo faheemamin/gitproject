@@ -56,17 +56,17 @@
         <script type="text/javascript">
         var dataHeader = [
                             {
-                              bigImage :"images/5.jpg",
+                              bigImage :"images/11.jpg",
                               title : "Minimal & Clean",
 							  author : "Templatestock"
                             },
                             {
-                              bigImage :"images/4.png",
+                              bigImage :"images/12.jpg",
                               title : "I'm A Creative Theme",
                               author : "Templatestock"
                             },
                             {
-                              bigImage :"images/6.jpg",
+                              bigImage :"images/13.jpg",
                               title : "Achieve Success",
                               author : "Templatestock"
                             }
